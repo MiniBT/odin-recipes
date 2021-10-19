@@ -1,1 +1,1 @@
-This is the first project on The Odin Project. The project involves creating a basic recipe website.
+This is the first project on The Odin Project. The project involves creating a basic recipe website. In the project I created an index.html page with links to three separate recipe html pages. The main skills demonstrated were creating boilerplate html, headers, links, images, ordered lists, and unordered lists.
